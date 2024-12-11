@@ -1,4 +1,4 @@
-### Importações de Fertilizantes na Bahia 
+### Importações de Fertilizantes na Bahia (versão em português)
 
 ![André Bueno](https://avatars.githubusercontent.com/u/152298881?v=4&s=64)  
 **Responsável:** André Bueno  
