@@ -10,10 +10,10 @@ As previsões a seguir foram obtidas através do uso da linguagem [python](pytho
 
 Técnicas de **clasificação, regressão, e clusterização**, amplamente aplicadas na precificação de estoque, foram utilizadas e estão registradas aqui mesmo no Github. 
 
-![n](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/supply/imports/ncm/MAP.png)
-![n](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/supply/imports/ncm/MOP.png)
-![n](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/supply/imports/ncm/UREIA.png) 
+![MAP](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/MAP.png)
+![MOP](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/MOP.png)
+![UREIA](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/UREIA.png) 
 
 Para previsão de cada produto e mês, um conjunto de iformações adcionais foram utilizadas no processamento, permitindo com isso alcançar maior precisão. A tabela a seguir relata quais informações adcionais foram utilizadas. 
 
-![n](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/supply/imports/ncm/tabela.png)
+![n](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/tabela.png)
