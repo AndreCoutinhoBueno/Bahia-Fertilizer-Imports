@@ -1,19 +1,30 @@
-# Importações de Fertilizantes na Bahia                                        
+# Importações de Fertilizantes na Bahia 
 
+![André Bueno](https://avatars.githubusercontent.com/u/152298881?v=4&s=64)  
+**Responsável:** André Bueno  
+**Contato:** [LinkedIn](https://www.linkedin.com/in/andre-coutinho-bueno/) | [GitHub](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/)
 
-![André Bueno](https://avatars.githubusercontent.com/u/152298881?v=4&size=64)  Responsável: André Bueno Contato: [Linkedin](https://www.linkedin.com/in/andre-coutinho-bueno/) [Github](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/)
+As previsões a seguir foram obtidas utilizando a linguagem [Python](https://www.python.org) e algumas de suas bibliotecas de ***machine learning***, especialmente [scikit-learn](https://scikit-learn.org/stable/).
 
-As previsões a seguir foram obtidas através do uso da linguagem [python](python.org) e algumas de suas bibliotecas de ***machine learning***, especialmente [scikit-learn](https://scikit-learn.org/stable/).
+![Python](https://www.python.org/static/img/python-logo@2x.png)  
+![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
 
-![name](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-![](https://www.python.org/static/img/python-logo@2x.png)
+A principal fonte de dados é o site governamental [Comexstat](https://comexstat.mdic.gov.br/pt/home), utilizado para extrair estatísticas do comércio exterior brasileiro de bens.
 
-Técnicas de **clasificação, regressão, e clusterização**, amplamente aplicadas na precificação de estoque, foram utilizadas e estão registradas aqui mesmo no Github. 
+O programa criado está apto a aceitar novos dados relacionados às importações de fertilizantes, visando aumentar a precisão das previsões.
 
-![MAP](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/MAP.png)
-![MOP](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/MOP.png)
-![UREIA](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/UREIA.png) 
+Técnicas de **classificação, regressão e clusterização**, amplamente aplicadas em precificação de estoque, foram utilizadas e estão documentadas. Os registros estão disponíveis para conferência aqui no GitHub. Solicite para mais detalhes!
 
-Para previsão de cada produto e mês, um conjunto de iformações adcionais foram utilizadas no processamento, permitindo com isso alcançar maior precisão. A tabela a seguir relata quais informações adcionais foram utilizadas. 
+![Em Obras](http://ryco.eng.br/wp-content/uploads/2017/08/obras-em-andamento2.png)  
 
-![n](https://github.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/blob/main/tabela.png)
+**Em Obras:**  
+A máquina virtual que gera as previsões ainda apresenta distorções que estão sendo corrigidas, como as ocorridas nos meses 5 e 6 para o produto MOP.
+
+### Gráficos por Produto
+![MAP](https://raw.githubusercontent.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/refs/heads/main/MAP.png)  
+![MOP](https://raw.githubusercontent.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/refs/heads/main/MOP.png)  
+![UREIA](https://raw.githubusercontent.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/refs/heads/main/UREIA.png)  
+
+Para previsão de cada binômio "produto e mês", algumas informações adicionais já foram utilizadas no processamento, proporcionando maior precisão. A tabela a seguir apresenta quais informações adicionais foram consideradas:
+
+![Tabela](https://raw.githubusercontent.com/AndreCoutinhoBueno/Import-Fertilizer-Bahia/refs/heads/main/tabela.png)
