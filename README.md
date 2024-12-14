@@ -1,4 +1,4 @@
-### Importações de Fertilizantes na Bahia (versão em português)
+### Importações de Fertilizantes na Bahia
 
 >![André Bueno](https://avatars.githubusercontent.com/u/152298881?v=4&s=64)  
 >**Responsável:** André Bueno  
@@ -7,8 +7,7 @@
 O objetivo deste estudo é apoiar decisões de importação, fornecendo antecipadamente expectativas quantitativas, e auxiliar na precificação do estoque local, que é impactado pela normalidade ou não dos desembarques ocorridos.
 
 As previsões apresentadas foram geradas com a linguagem [Python](https://www.python.org) e suas bibliotecas de ***machine learning***, especialmente [scikit-learn](https://scikit-learn.org/stable/). 
-
-![Python](https://www.python.org/static/img/python-logo@2x.png)  
+![Python]([https://www.python.org/static/img/python-logo@2x.png](https://www.python.org/static/img/python-logo.png))  
 ![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
 
 A principal fonte de dados utilizada foi o site governamental [Comexstat](https://comexstat.mdic.gov.br/pt/home), especializado em estatísticas do comércio exterior brasileiro de bens.
