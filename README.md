@@ -4,7 +4,7 @@
 >**Responsável:** André Bueno  
 >**Contato:** [LinkedIn](https://www.linkedin.com/in/andre-coutinho-bueno/) | [GitHub](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/)
 
-O objetivo deste estudo é apoiar decisões de importação, fornecendo antecipadamente expectativas quantitativas, e auxiliar na precificação do estoque local, que é impactado pela normalidade ou não dos desembarques ocorridos.
+O objetivo deste estudo é apoiar decisões de importação, fornecendo antecipadamente expectativas quantitativas, e auxiliar na precificação do estoque local, que é impactado por eventuais anormalidades dos desembarques ocorridos.
 
 As previsões apresentadas foram geradas com a linguagem [Python](https://www.python.org) e suas bibliotecas de ***machine learning***, especialmente [scikit-learn](https://scikit-learn.org/stable/). 
 ![Python]([https://www.python.org/static/img/python-logo@2x.png](https://www.python.org/static/img/python-logo.png))  
