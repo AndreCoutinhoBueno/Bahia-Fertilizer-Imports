@@ -34,4 +34,4 @@ Por exemplo, a seguir podemos ver na tabela que, para o produto MOP no mês 10, 
 
 Analisando os volumes acumulados de importação de MOP no gráfico a seguir, que certamente esta correlacionado com o consumo de UREIA e MAP, o autor considera que o ano de 2025 será um ano de retração do mercado, e por isso, nos gráfico de previsão acima, se deve considerar maior acertividade nas previsões inferiores de cada produto e mês.
 
-![têndência]()
+![têndência](https://github.com/AndreCoutinhoBueno/Bahia-Fertilizer-Imports/blob/main/tend_longo.jpeg)
